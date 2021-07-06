@@ -2,17 +2,15 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> My project name is "Hello Microverse!"
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+This project is to implement the use of GitHub flow, documentation and Linters.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html, CSS
+- Linterns
+- Git used as remote repo
 
 ## Live Demo
 
