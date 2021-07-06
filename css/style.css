@@ -1,15 +1,10 @@
 body {
-	background: #222831;
-	color: #fff;
-	margin: 20;
-	font-family: sans-serif;
-	font-weight: normal;
+  background: #222831;
 }
 
 .myHeader {
-    color: #fff;
-	margin: 20;
-	font-family: sans-serif;
-	font-weight: normal;
-
+  color: #fff;
+  margin: 20px;
+  font-family: sans-serif;
+  font-weight: normal;
 }
